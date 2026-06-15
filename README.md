@@ -42,6 +42,8 @@ License
 Unless otherwise specified, all content is provided as-is without warranty. Usage and modification are permitted for personal and educational purposes.
 
 Persian Translatuion:
+
+
 داریوش حقیقی - اسکریپت‌های اتوماسیون DJH
 
 این ریپازیتوری شامل مجموعه‌ای از اسکریپت‌های اتوماسیون است که توسط DJH توسعه داده شده و نگهداری می‌شود؛ هم برای استفاده شخصی و هم برای استفاده عمومی منتشر شده‌اند.
